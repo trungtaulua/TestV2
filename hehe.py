@@ -1,1 +1,1 @@
-print("Xin chao co chu")
+print("Xin chao cac ban")
